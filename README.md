@@ -1,1 +1,1 @@
-# Personal ritchie formulas
+# Bruna TS Formulas
