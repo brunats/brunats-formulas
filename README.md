@@ -1,4 +1,4 @@
-# Ritchie Formula Repo
+# BRUNATS Formula Repo
 
 ![Rit banner](/docs/img/ritchie-banner.png)
 
