@@ -1,0 +1,53 @@
+{
+  "dockerImageBuilder": "ritclizup/rit-go-builder",
+  "inputs": [
+    {
+      "cache": {
+        "active": true,
+        "newLabel": "Type new value. ",
+        "qty": 4
+      },
+      "label": "Type your 1st entry (ex 08h30m): ",
+      "name": "rit_input_1st_entry",
+      "required": true,
+      "tutorial": "Your first entry",
+      "type": "text"
+    },
+    {
+      "cache": {
+        "active": true,
+        "newLabel": "Type new value. ",
+        "qty": 4
+      },
+      "label": "Type your 1st exit (ex 12h00m): ",
+      "name": "rit_input_1st_exit",
+      "required": true,
+      "tutorial": "Your first exit",
+      "type": "text"
+    },
+    {
+      "cache": {
+        "active": true,
+        "newLabel": "Type new value. ",
+        "qty": 4
+      },
+      "label": "Type your 2nd entry (ex 13h30m): ",
+      "name": "rit_input_2nd_entry",
+      "required": true,
+      "tutorial": "Your second entry",
+      "type": "text"
+    },
+    {
+      "cache": {
+        "active": true,
+        "newLabel": "Type new value. ",
+        "qty": 4
+      },
+      "label": "Type your 2nd exit (ex 18h30m): ",
+      "name": "rit_input_2nd_exit",
+      "required": true,
+      "tutorial": "Your second exit",
+      "type": "text"
+    }
+  ]
+}
